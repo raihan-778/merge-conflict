@@ -1,13 +1,11 @@
 import React from "react";
 
-const index = () => {
+const h2 = () => {
   return (
     <div>
-      <h2>
-        One Item <i class="fa fa-address-card" aria-hidden="true"></i>
-      </h2>
+      <i class="fas fa-h2    "></i>
     </div>
   );
 };
 
-export default index;
+export default h2;
